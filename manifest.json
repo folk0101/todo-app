@@ -1,0 +1,19 @@
+{
+  "name": "Todo App",
+  "short_name": "Todo",
+  "description": "แอพจดบันทึกรายการงาน พร้อมแจ้งเตือนหน้าล็อก",
+  "start_url": "/todo-app/",
+  "id": "/todo-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4facfe",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
